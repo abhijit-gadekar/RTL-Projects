@@ -5,6 +5,8 @@ Welcome to the RTL-Projects repository!
 This repository contains my VLSI Design projects including RTL Codes, Schematics, Testbenches and Simulation Results along with project reports.
 
 Explore, learn, and use these resources to deepen your understanding of VLSI design and digital electronics. Feel free to contribute or raise any issues for collaborative learning. 😊
+
+
 ---
 
 # 📚 Learning Resources for Digital Electronics
