@@ -7,7 +7,7 @@ end tb_mux2to1;
 architecture Behavioral of tb_mux2to1 is
     signal a, b, sel, y : STD_LOGIC;
 begin
-    uut: entity work.mux2to1
+    uut: entity mux2to1
         port map (
             a => a,
             b => b,
