@@ -1,8 +1,8 @@
-# RTL-Projects
+# VHDL
 
-Welcome to the RTL-Projects repository!
+Welcome to the VHDL repository!
 
-This repository contains my VLSI Design projects including RTL Codes, Schematics, Testbenches and Simulation Results along with project reports.
+This repository contains my VLSI Design journey including RTL Codes, Schematics, Testbenches and Simulation Results using VHDL .
 
 Explore, learn, and use these resources to deepen your understanding of VLSI design and digital electronics. Feel free to contribute or raise any issues for collaborative learning. 😊
 
@@ -64,7 +64,7 @@ Learning Resources:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhijit-gadekar/RTL-Projects.git
+   git clone https://github.com/abhijit-gadekar/VHDL.git
 
 3. Navigate through the folders and open resources as per your interest.
 4. Leverage the projects and reports for learning and practice.
