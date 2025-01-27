@@ -6,7 +6,6 @@ This repository contains my VLSI Design journey including RTL Codes, Schematics,
 
 Explore, learn, and use these resources to deepen your understanding of VLSI design and digital electronics. Feel free to contribute or raise any issues for collaborative learning. 😊
 
-
 ---
 
 # 📚 Learning Resources for Digital Electronics
